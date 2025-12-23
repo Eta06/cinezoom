@@ -37,7 +37,7 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Eta06/cinezoom-for-yt.git
+   git clone https://github.com/Eta06/cinezoom.git
    ```
 
 2. Open Chrome and navigate to `chrome://extensions`
